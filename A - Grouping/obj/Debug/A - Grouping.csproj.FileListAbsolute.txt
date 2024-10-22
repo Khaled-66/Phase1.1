@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Grouping\bin\Debug\A - Grouping.exe.config
+D:\Atcoder-phase1.1\A - Grouping\bin\Debug\A - Grouping.exe
+D:\Atcoder-phase1.1\A - Grouping\bin\Debug\A - Grouping.pdb
+D:\Atcoder-phase1.1\A - Grouping\obj\Debug\A - Grouping.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Grouping\obj\Debug\A - Grouping.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Grouping\obj\Debug\A - Grouping.exe
+D:\Atcoder-phase1.1\A - Grouping\obj\Debug\A - Grouping.pdb

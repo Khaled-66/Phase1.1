@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\bin\Debug\A - Children and Candies (ABC Edit).exe.config
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\bin\Debug\A - Children and Candies (ABC Edit).exe
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\bin\Debug\A - Children and Candies (ABC Edit).pdb
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\obj\Debug\A - Children and Candies (ABC Edit).csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\obj\Debug\A - Children and Candies (ABC Edit).csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\obj\Debug\A - Children and Candies (ABC Edit).exe
+D:\Atcoder-phase1.1\A - Children and Candies (ABC Edit)\obj\Debug\A - Children and Candies (ABC Edit).pdb

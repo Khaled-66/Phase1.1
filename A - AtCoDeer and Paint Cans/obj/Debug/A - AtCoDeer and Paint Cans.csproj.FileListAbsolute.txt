@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\bin\Debug\A - AtCoDeer and Paint Cans.exe.config
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\bin\Debug\A - AtCoDeer and Paint Cans.exe
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\bin\Debug\A - AtCoDeer and Paint Cans.pdb
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\obj\Debug\A - AtCoDeer and Paint Cans.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\obj\Debug\A - AtCoDeer and Paint Cans.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\obj\Debug\A - AtCoDeer and Paint Cans.exe
+D:\Atcoder-phase1.1\A - AtCoDeer and Paint Cans\obj\Debug\A - AtCoDeer and Paint Cans.pdb

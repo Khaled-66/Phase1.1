@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - ABC-ARC\bin\Debug\A - ABC-ARC.exe.config
+D:\Atcoder-phase1.1\A - ABC-ARC\bin\Debug\A - ABC-ARC.exe
+D:\Atcoder-phase1.1\A - ABC-ARC\bin\Debug\A - ABC-ARC.pdb
+D:\Atcoder-phase1.1\A - ABC-ARC\obj\Debug\A - ABC-ARC.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - ABC-ARC\obj\Debug\A - ABC-ARC.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - ABC-ARC\obj\Debug\A - ABC-ARC.exe
+D:\Atcoder-phase1.1\A - ABC-ARC\obj\Debug\A - ABC-ARC.pdb

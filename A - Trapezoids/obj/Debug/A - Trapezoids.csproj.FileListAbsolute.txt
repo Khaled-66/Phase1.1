@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Trapezoids\bin\Debug\A - Trapezoids.exe.config
+D:\Atcoder-phase1.1\A - Trapezoids\bin\Debug\A - Trapezoids.exe
+D:\Atcoder-phase1.1\A - Trapezoids\bin\Debug\A - Trapezoids.pdb
+D:\Atcoder-phase1.1\A - Trapezoids\obj\Debug\A - Trapezoids.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Trapezoids\obj\Debug\A - Trapezoids.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Trapezoids\obj\Debug\A - Trapezoids.exe
+D:\Atcoder-phase1.1\A - Trapezoids\obj\Debug\A - Trapezoids.pdb
