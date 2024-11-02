@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Buying Sweets\bin\Debug\A - Buying Sweets.exe.config
+D:\Atcoder-phase1.1\A - Buying Sweets\bin\Debug\A - Buying Sweets.exe
+D:\Atcoder-phase1.1\A - Buying Sweets\bin\Debug\A - Buying Sweets.pdb
+D:\Atcoder-phase1.1\A - Buying Sweets\obj\Debug\A - Buying Sweets.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Buying Sweets\obj\Debug\A - Buying Sweets.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Buying Sweets\obj\Debug\A - Buying Sweets.exe
+D:\Atcoder-phase1.1\A - Buying Sweets\obj\Debug\A - Buying Sweets.pdb

@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Product\bin\Debug\A - Product.exe.config
+D:\Atcoder-phase1.1\A - Product\bin\Debug\A - Product.exe
+D:\Atcoder-phase1.1\A - Product\bin\Debug\A - Product.pdb
+D:\Atcoder-phase1.1\A - Product\obj\Debug\A - Product.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Product\obj\Debug\A - Product.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Product\obj\Debug\A - Product.exe
+D:\Atcoder-phase1.1\A - Product\obj\Debug\A - Product.pdb

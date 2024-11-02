@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Traveling Budget\bin\Debug\A - Traveling Budget.exe.config
+D:\Atcoder-phase1.1\A - Traveling Budget\bin\Debug\A - Traveling Budget.exe
+D:\Atcoder-phase1.1\A - Traveling Budget\bin\Debug\A - Traveling Budget.pdb
+D:\Atcoder-phase1.1\A - Traveling Budget\obj\Debug\A - Traveling Budget.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Traveling Budget\obj\Debug\A - Traveling Budget.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Traveling Budget\obj\Debug\A - Traveling Budget.exe
+D:\Atcoder-phase1.1\A - Traveling Budget\obj\Debug\A - Traveling Budget.pdb

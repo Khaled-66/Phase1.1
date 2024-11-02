@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Infinite Coins\bin\Debug\A - Infinite Coins.exe.config
+D:\Atcoder-phase1.1\A - Infinite Coins\bin\Debug\A - Infinite Coins.exe
+D:\Atcoder-phase1.1\A - Infinite Coins\bin\Debug\A - Infinite Coins.pdb
+D:\Atcoder-phase1.1\A - Infinite Coins\obj\Debug\A - Infinite Coins.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Infinite Coins\obj\Debug\A - Infinite Coins.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Infinite Coins\obj\Debug\A - Infinite Coins.exe
+D:\Atcoder-phase1.1\A - Infinite Coins\obj\Debug\A - Infinite Coins.pdb

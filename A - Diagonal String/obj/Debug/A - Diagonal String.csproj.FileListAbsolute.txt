@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\A - Diagonal String\bin\Debug\A - Diagonal String.exe.config
+D:\Atcoder-phase1.1\A - Diagonal String\bin\Debug\A - Diagonal String.exe
+D:\Atcoder-phase1.1\A - Diagonal String\bin\Debug\A - Diagonal String.pdb
+D:\Atcoder-phase1.1\A - Diagonal String\obj\Debug\A - Diagonal String.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\A - Diagonal String\obj\Debug\A - Diagonal String.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\A - Diagonal String\obj\Debug\A - Diagonal String.exe
+D:\Atcoder-phase1.1\A - Diagonal String\obj\Debug\A - Diagonal String.pdb
