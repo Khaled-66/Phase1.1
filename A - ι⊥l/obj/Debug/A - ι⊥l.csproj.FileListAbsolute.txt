@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - ι⊥l\bin\Debug\A - ι⊥l.exe.config
-D:\Atcoder-phase1.1\A - ι⊥l\bin\Debug\A - ι⊥l.exe
-D:\Atcoder-phase1.1\A - ι⊥l\bin\Debug\A - ι⊥l.pdb
-D:\Atcoder-phase1.1\A - ι⊥l\obj\Debug\A - ι⊥l.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - ι⊥l\obj\Debug\A - ι⊥l.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - ι⊥l\obj\Debug\A - ι⊥l.exe
-D:\Atcoder-phase1.1\A - ι⊥l\obj\Debug\A - ι⊥l.pdb

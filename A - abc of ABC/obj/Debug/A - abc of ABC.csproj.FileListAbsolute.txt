@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - abc of ABC\bin\Debug\A - abc of ABC.exe.config
-D:\Atcoder-phase1.1\A - abc of ABC\bin\Debug\A - abc of ABC.exe
-D:\Atcoder-phase1.1\A - abc of ABC\bin\Debug\A - abc of ABC.pdb
-D:\Atcoder-phase1.1\A - abc of ABC\obj\Debug\A - abc of ABC.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - abc of ABC\obj\Debug\A - abc of ABC.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - abc of ABC\obj\Debug\A - abc of ABC.exe
-D:\Atcoder-phase1.1\A - abc of ABC\obj\Debug\A - abc of ABC.pdb

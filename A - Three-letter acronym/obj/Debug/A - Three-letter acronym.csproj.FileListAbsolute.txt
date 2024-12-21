@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - Three-letter acronym\bin\Debug\A - Three-letter acronym.exe.config
-D:\Atcoder-phase1.1\A - Three-letter acronym\bin\Debug\A - Three-letter acronym.exe
-D:\Atcoder-phase1.1\A - Three-letter acronym\bin\Debug\A - Three-letter acronym.pdb
-D:\Atcoder-phase1.1\A - Three-letter acronym\obj\Debug\A - Three-letter acronym.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - Three-letter acronym\obj\Debug\A - Three-letter acronym.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - Three-letter acronym\obj\Debug\A - Three-letter acronym.exe
-D:\Atcoder-phase1.1\A - Three-letter acronym\obj\Debug\A - Three-letter acronym.pdb

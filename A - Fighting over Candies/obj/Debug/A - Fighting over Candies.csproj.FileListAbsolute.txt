@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - Fighting over Candies\bin\Debug\A - Fighting over Candies.exe.config
-D:\Atcoder-phase1.1\A - Fighting over Candies\bin\Debug\A - Fighting over Candies.exe
-D:\Atcoder-phase1.1\A - Fighting over Candies\bin\Debug\A - Fighting over Candies.pdb
-D:\Atcoder-phase1.1\A - Fighting over Candies\obj\Debug\A - Fighting over Candies.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - Fighting over Candies\obj\Debug\A - Fighting over Candies.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - Fighting over Candies\obj\Debug\A - Fighting over Candies.exe
-D:\Atcoder-phase1.1\A - Fighting over Candies\obj\Debug\A - Fighting over Candies.pdb

@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - One Card Poker\bin\Debug\A - One Card Poker.exe.config
-D:\Atcoder-phase1.1\A - One Card Poker\bin\Debug\A - One Card Poker.exe
-D:\Atcoder-phase1.1\A - One Card Poker\bin\Debug\A - One Card Poker.pdb
-D:\Atcoder-phase1.1\A - One Card Poker\obj\Debug\A - One Card Poker.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - One Card Poker\obj\Debug\A - One Card Poker.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - One Card Poker\obj\Debug\A - One Card Poker.exe
-D:\Atcoder-phase1.1\A - One Card Poker\obj\Debug\A - One Card Poker.pdb

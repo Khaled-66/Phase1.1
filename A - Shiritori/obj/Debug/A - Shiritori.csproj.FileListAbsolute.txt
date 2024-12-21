@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - Shiritori\bin\Debug\A - Shiritori.exe.config
-D:\Atcoder-phase1.1\A - Shiritori\bin\Debug\A - Shiritori.exe
-D:\Atcoder-phase1.1\A - Shiritori\bin\Debug\A - Shiritori.pdb
-D:\Atcoder-phase1.1\A - Shiritori\obj\Debug\A - Shiritori.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - Shiritori\obj\Debug\A - Shiritori.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - Shiritori\obj\Debug\A - Shiritori.exe
-D:\Atcoder-phase1.1\A - Shiritori\obj\Debug\A - Shiritori.pdb

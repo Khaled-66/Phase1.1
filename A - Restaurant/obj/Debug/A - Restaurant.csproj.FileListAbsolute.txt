@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - Restaurant\bin\Debug\A - Restaurant.exe.config
-D:\Atcoder-phase1.1\A - Restaurant\bin\Debug\A - Restaurant.exe
-D:\Atcoder-phase1.1\A - Restaurant\bin\Debug\A - Restaurant.pdb
-D:\Atcoder-phase1.1\A - Restaurant\obj\Debug\A - Restaurant.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - Restaurant\obj\Debug\A - Restaurant.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - Restaurant\obj\Debug\A - Restaurant.exe
-D:\Atcoder-phase1.1\A - Restaurant\obj\Debug\A - Restaurant.pdb

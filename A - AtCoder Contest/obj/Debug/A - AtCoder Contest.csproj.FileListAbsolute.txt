@@ -1,7 +1,0 @@
-D:\Atcoder-phase1.1\A - AtCoder Contest\bin\Debug\A - AtCoder Contest.exe.config
-D:\Atcoder-phase1.1\A - AtCoder Contest\bin\Debug\A - AtCoder Contest.exe
-D:\Atcoder-phase1.1\A - AtCoder Contest\bin\Debug\A - AtCoder Contest.pdb
-D:\Atcoder-phase1.1\A - AtCoder Contest\obj\Debug\A - AtCoder Contest.csproj.AssemblyReference.cache
-D:\Atcoder-phase1.1\A - AtCoder Contest\obj\Debug\A - AtCoder Contest.csproj.CoreCompileInputs.cache
-D:\Atcoder-phase1.1\A - AtCoder Contest\obj\Debug\A - AtCoder Contest.exe
-D:\Atcoder-phase1.1\A - AtCoder Contest\obj\Debug\A - AtCoder Contest.pdb
