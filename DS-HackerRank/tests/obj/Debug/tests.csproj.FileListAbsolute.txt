@@ -1,0 +1,7 @@
+D:\Atcoder-phase1.1\DS-HackerRank\tests\bin\Debug\tests.exe.config
+D:\Atcoder-phase1.1\DS-HackerRank\tests\bin\Debug\tests.exe
+D:\Atcoder-phase1.1\DS-HackerRank\tests\bin\Debug\tests.pdb
+D:\Atcoder-phase1.1\DS-HackerRank\tests\obj\Debug\tests.csproj.AssemblyReference.cache
+D:\Atcoder-phase1.1\DS-HackerRank\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+D:\Atcoder-phase1.1\DS-HackerRank\tests\obj\Debug\tests.exe
+D:\Atcoder-phase1.1\DS-HackerRank\tests\obj\Debug\tests.pdb

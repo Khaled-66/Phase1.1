@@ -38,6 +38,21 @@ class Solution
             this.tail = null;
         }
 
+        public void InsertNode(int nodeData)
+        {
+            SinglyLinkedListNode node = new SinglyLinkedListNode(nodeData);
+
+            if (this.head == null)
+            {
+                this.head = node;
+            }
+            else
+            {
+                this.tail.next = node;
+            }
+
+            this.tail = node;
+        }
     }
 
     static void PrintSinglyLinkedList(SinglyLinkedListNode node, string sep, TextWriter textWriter)
@@ -54,27 +69,51 @@ class Solution
             }
         }
     }
-
-    // Complete the insertNodeAtHead function below.
+    /*
+     * Complete the 'insertNodeAtPosition' function below.
+     *
+     * The function is expected to return an INTEGER_SINGLY_LINKED_LIST.
+     * The function accepts following parameters:
+     *  1. INTEGER_SINGLY_LINKED_LIST llist
+     *  2. INTEGER data
+     *  3. INTEGER position
+     */
 
     /*
      * For your reference:
      *
-     * SinglyLinkedListNode {
+     * SinglyLinkedListNode
+     * {
      *     int data;
      *     SinglyLinkedListNode next;
      * }
      *
      */
-    static SinglyLinkedListNode insertNodeAtHead(SinglyLinkedListNode llist, int data)
+
+    static SinglyLinkedListNode insertNodeAtPosition(SinglyLinkedListNode llist, int data, int position)
     {
+        SinglyLinkedListNode n1= new SinglyLinkedListNode(data);
+        if (llist == null)
+        {
+            return n1;
+        }
+        else
+        {
+            SinglyLinkedListNode temp= llist;
+            for(int i= 0; i < position - 1&& temp!=null; i++)
+            {
+                temp=temp.next;
+            }
+           n1.next = temp.next;
+            temp.next = n1;
 
-
+        }
+        return llist;
     }
 
     static void Main(string[] args)
     {
-        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+       /* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);*/
 
         SinglyLinkedList llist = new SinglyLinkedList();
 
@@ -83,13 +122,16 @@ class Solution
         for (int i = 0; i < llistCount; i++)
         {
             int llistItem = Convert.ToInt32(Console.ReadLine());
-            SinglyLinkedListNode llist_head = insertNodeAtHead(llist.head, llistItem);
-            llist.head = llist_head;
+            llist.InsertNode(llistItem);
         }
 
+        int data = Convert.ToInt32(Console.ReadLine());
 
+        int position = Convert.ToInt32(Console.ReadLine());
 
-        PrintSinglyLinkedList(llist->head, "\n", textWriter);
+        SinglyLinkedListNode llist_head = insertNodeAtPosition(llist.head, data, position);
+
+        PrintSinglyLinkedList(llist_head, " ", textWriter);
         textWriter.WriteLine();
 
         textWriter.Flush();
