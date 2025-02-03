@@ -69,14 +69,14 @@ class Solution
             }
         }
     }
+
+
+
     /*
-     * Complete the 'insertNodeAtPosition' function below.
+     * Complete the 'reverse' function below.
      *
      * The function is expected to return an INTEGER_SINGLY_LINKED_LIST.
-     * The function accepts following parameters:
-     *  1. INTEGER_SINGLY_LINKED_LIST llist
-     *  2. INTEGER data
-     *  3. INTEGER position
+     * The function accepts INTEGER_SINGLY_LINKED_LIST llist as parameter.
      */
 
     /*
@@ -90,49 +90,48 @@ class Solution
      *
      */
 
-    static SinglyLinkedListNode insertNodeAtPosition(SinglyLinkedListNode llist, int data, int position)
+    static SinglyLinkedListNode reverse(SinglyLinkedListNode llist)
     {
-        SinglyLinkedListNode n1= new SinglyLinkedListNode(data);
-        if (llist == null)
-        {
-            return n1;
-        }
-        else
-        {
-            SinglyLinkedListNode temp= llist;
-            for(int i= 0; i < position - 1&& temp!=null; i++)
-            {
-                temp=temp.next;
-            }
-           n1.next = temp.next;
-            temp.next = n1;
+        SinglyLinkedListNode reversed_list = null;
+        SinglyLinkedListNode temp = llist;
 
+        while (temp != null)
+        {
+            SinglyLinkedListNode newNode = new SinglyLinkedListNode(temp.data);
+            newNode.next = newList;
+            newList = newNode;
+            temp = temp.next;
         }
-        return llist;
+
+        return newList;
     }
+
+
 
     static void Main(string[] args)
     {
-       /* TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);*/
+        TextWriter textWriter = new StreamWriter("output.txt", true); // This writes to a file named 'output.txt'
 
-        SinglyLinkedList llist = new SinglyLinkedList();
 
-        int llistCount = Convert.ToInt32(Console.ReadLine());
+        int tests = Convert.ToInt32(Console.ReadLine());
 
-        for (int i = 0; i < llistCount; i++)
+        for (int testsItr = 0; testsItr < tests; testsItr++)
         {
-            int llistItem = Convert.ToInt32(Console.ReadLine());
-            llist.InsertNode(llistItem);
+            SinglyLinkedList llist = new SinglyLinkedList();
+
+            int llistCount = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < llistCount; i++)
+            {
+                int llistItem = Convert.ToInt32(Console.ReadLine());
+                llist.InsertNode(llistItem);
+            }
+
+            SinglyLinkedListNode llist1 = reverse(llist.head);
+
+            PrintSinglyLinkedList(llist1, " ", textWriter);
+            textWriter.WriteLine();
         }
-
-        int data = Convert.ToInt32(Console.ReadLine());
-
-        int position = Convert.ToInt32(Console.ReadLine());
-
-        SinglyLinkedListNode llist_head = insertNodeAtPosition(llist.head, data, position);
-
-        PrintSinglyLinkedList(llist_head, " ", textWriter);
-        textWriter.WriteLine();
 
         textWriter.Flush();
         textWriter.Close();
